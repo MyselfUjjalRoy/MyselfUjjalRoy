@@ -38,6 +38,6 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MyselfUjjalRoy&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MyselfUjjalRoy&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MyselfUjjalRoy&theme=2077" height="180em" />
-</div>
   ![Leetcode Stats](https://leetcard.jacoblin.cool/Ujjal_roy123?ext=heatmap)
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=MyselfUjjalRoy&theme=default"/>
+</div>
+
